@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateeksha08-crew" alt="prateeksha08-crew" /></a> </p>
 
-- 🔭 I’m currently pursuing on **Bachelor of Engineering in Infor Computer science in SREC**
+- 🔭 I’m currently pursuing on **Bachelor of Engineering in Computer science in SREC**
 
 - 🌱 I’m currently learning **Backend, node and react**
 
